@@ -92,3 +92,7 @@ section p {
   font-size: 18px;
   font-weight: bold;
 }
+
+a {
+  color:rgb(250, 74, 133);
+}
